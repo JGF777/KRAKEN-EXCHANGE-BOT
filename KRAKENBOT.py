@@ -17,7 +17,7 @@ API_SECRET= ''
 API_URL = "https://api.kraken.com"
 URI_PATH = "/0/private/AddOrder"    #As per API URL string instructions
 SYMBOL = 'XXBTZEUR'                 #As per API strings instructions
-INVESTMENT = 10                     #Amount in EUR to create a market order.
+INVESTMENT = 10                     #Amount in EUR to create a market order, 10 in this example.
 
 #Bot Class with the relevant methods to perform a correct authentication and market order.
 
